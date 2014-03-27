@@ -1,0 +1,24 @@
+{
+  "name": "echo-server",
+  "description": "Echo server for testing",
+  "url": "",
+  "author": "Nick Poorman <nick@nextglass.co>",
+  "contributors": [
+    {
+      "name": "Nick Poorman",
+      "email": "nick@nextglass.co",
+      "url": "http://nickpoorman.com/"
+    }
+  ],
+  "version": "0.0.4",
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "index.js"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
